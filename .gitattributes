@@ -1,0 +1,6 @@
+Data filter=lfs diff=lfs merge=lfs -text
+Excel[[:space:]]-[[:space:]]Dashboard filter=lfs diff=lfs merge=lfs -text
+Graduation_project_1.ipynb filter=lfs diff=lfs merge=lfs -text
+Graduation_project_1.pdf filter=lfs diff=lfs merge=lfs -text
+Power-Bi[[:space:]]Dashboard filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text

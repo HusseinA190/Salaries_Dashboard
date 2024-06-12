@@ -1,2 +1,3 @@
-# Salaries_Dashboard
-Excel and Power-Bi Dashboard For Analyzing Salaries Data For Employees Besides a 20 Question Derived To Be Answered About The Data With Python &amp; SQL 
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d51aa7cb93ed41e726bab14b1e2d4a75994a01b41d9d11b7758b52525d3b3e2
+size 177
